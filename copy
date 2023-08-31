@@ -1,0 +1,10 @@
+ <div class="card" style="width: 22rem; height: 500px; flex-wrap: wrap;">
+                <h5 class="card-title">Sign-In</h5>
+                <h2>Email(phone for mobile accounts)</h2>
+              <p class="card-text"><input type=“Username” name=“?” style="color: black;">.</p>
+              <a href="#" class="btn btn-primary">Sign-in</a>
+              <h6>By continuing, you agree to Amazons Conditions of Use and Privacy Notice</h6>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                <label class="form-check-label" for="flexCheckDefault">
+                Remain Signed In

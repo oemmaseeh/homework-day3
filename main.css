@@ -1,0 +1,40 @@
+.col2 {
+   display: flex;
+   position: absolute;
+   margin-left: 32%;
+}    
+h2 {
+    font-weight: 300;
+    font-size: medium;
+    text-align: left;
+    margin-left: 5%;
+}
+h5 {
+    text-align: left;
+}
+
+title {
+    color: black;
+}
+button {
+    width: 90%;
+    background-color: darkgoldenrod;
+}
+
+h4 {
+    color: black;
+    font-weight: 200;
+    font-size: medium;
+}
+h6 {
+   color: grey;
+   font-weight: 200;
+}
+.form-check {
+    margin-left: 5%;
+    color: black;
+}
+.btnbtn-warning {
+    margin-top: 5%;
+    background-color: rgb(209, 175, 3);
+}
